@@ -103,7 +103,7 @@ export default function BlogGraph() {
           {/* <Map/> */}
           <Routes>
             <Route exact path="/Dashboard_Finance/" element={<Map />} />
-            <Route exact path="/regionData/:id" element={<RegionsData />} />
+            <Route exact path="/Dashboard_Finance/regionData/:id" element={<RegionsData />} />
           </Routes>
         </Card>
       </Grid>

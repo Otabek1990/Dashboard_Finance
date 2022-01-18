@@ -37,7 +37,7 @@ function Map() {
   // ------------------
   // ---------------------------------------------------------
   const doubleClick = (id,name) => {
-    navigate(`/regionData/${id}`);
+    navigate(`/Dashboard_Finance/regionData/${id}`);
     const newObj = {
       ...state.financeInfos,
       regionID: id,
