@@ -1,6 +1,6 @@
 {
   "name": "react-adminpannel",
-  "homepage": "http://Otabek1990.github.io/Dashboard_Finance",
+  "homepage": "https://Otabek1990.github.io/Dashboard_Finance",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,6 +21,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages  -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
