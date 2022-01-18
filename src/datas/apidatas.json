@@ -1,0 +1,148 @@
+[
+    {
+      "id":"UZTA220",
+      "tumanNomi":"Bekobod",
+      "JamiArizalar": "3000",
+      "maqullangan": "1500",
+      "radEtilgan": "1000",
+      "muddatiTugagan": "500",
+      "datas":[1500,1000,500]
+    },
+    {
+      "id":"UZTA224",
+      "tumanNomi":"Bo'stonliq",
+      "JamiArizalar": "4500",
+      "maqullangan": "2500",
+      "radEtilgan": "500",
+      "muddatiTugagan": "1000",
+      "datas":[2500,500,1000]
+
+    },
+    {
+      "id":"UZTA228",
+      "tumanNomi":"Bo'ka",
+      "JamiArizalar": "2000",
+      "maqullangan": "1000",
+      "radEtilgan": "600",
+      "muddatiTugagan": "400",
+      "datas":[1000,600,400]
+
+    },
+
+    {
+      "id":"UZTA256",
+      "tumanNomi":"Chinoz",
+      "JamiArizalar": "6500",
+      "maqullangan": "3000",
+      "radEtilgan": "1000",
+      "muddatiTugagan": "2500",
+      "datas":[1000,600,400]
+
+    },
+
+    {
+      "id":"UZTA248",
+      "tumanNomi":"Qibray",
+      "JamiArizalar": "5000",
+      "maqullangan": "2000",
+      "radEtilgan": "2000",
+      "muddatiTugagan": "1000",
+      "datas":[1000,600,400]
+
+    },
+
+    {
+      "id":"UZTA212",
+      "tumanNomi":"Ohangaron",
+      "JamiArizalar": "10000",
+      "maqullangan": "6000",
+      "radEtilgan": "1000",
+      "muddatiTugagan": "3000",
+      "datas":[1000,600,400]
+
+    },
+
+    {
+      "id":"UZTA206",
+      "tumanNomi":"Oqqo'rg'on",
+      "JamiArizalar": "7000",
+      "maqullangan": "4000",
+      "radEtilgan": "2000",
+      "muddatiTugagan": "1000",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA249",
+      "tumanNomi":"Parkent",
+      "JamiArizalar": "2000",
+      "maqullangan": "1000",
+      "radEtilgan": "600",
+      "muddatiTugagan": "400",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA250",
+      "tumanNomi":"Pskent",
+      "JamiArizalar": "4000",
+      "maqullangan": "1000",
+      "radEtilgan": "1000",
+      "muddatiTugagan": "2000",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA233",
+      "tumanNomi":"Quyi Chirchiq",
+      "JamiArizalar": "3000",
+      "maqullangan": "1500",
+      "radEtilgan": "500",
+      "muddatiTugagan": "1000",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA237",
+      "tumanNomi":"Zangiota",
+      "JamiArizalar": "1000",
+      "maqullangan": "500",
+      "radEtilgan": "250",
+      "muddatiTugagan": "250",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA253",
+      "tumanNomi":"O'rta Chirchiq",
+      "JamiArizalar": "2000",
+      "maqullangan": "1000",
+      "radEtilgan": "600",
+      "muddatiTugagan": "400",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA259",
+      "tumanNomi":"Yangiyo'l",
+      "JamiArizalar": "8000",
+      "maqullangan": "4000",
+      "radEtilgan": "2000",
+      "muddatiTugagan": "2000",
+      "datas":[1000,600,400]
+
+    },
+    {
+      "id":"UZTA239",
+      "tumanNomi":"Yuqori Chirchiq",
+      "JamiArizalar": "6000",
+      "maqullangan": "2000",
+      "radEtilgan": "200",
+      "muddatiTugagan": "2000",
+      "datas":[1000,600,400]
+
+    }
+
+   
+  ]
+  

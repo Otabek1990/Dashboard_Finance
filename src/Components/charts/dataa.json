@@ -1,0 +1,110 @@
+[
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "Moddiy yordam",
+      "order_amt": 8,
+      "product_sub_type": "0-14 yoshgacha"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "man",
+      "order_amt": 10,
+      "product_sub_type": "sabzavot"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "man",
+      "order_amt": 20,
+      "product_sub_type": "shirinlik"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "woman",
+      "order_amt": 13,
+      "product_sub_type": "shirinlik"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "woman",
+      "order_amt": 21,
+      "product_sub_type": "meva"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "woman",
+      "order_amt": 21,
+      "product_sub_type": "sabzavot"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "man",
+      "order_amt": 13,
+      "product_sub_type": "moliya"
+    },
+    {
+      "product_type": "0-2 yoshgacha",
+      "sex": "woman",
+      "order_amt": 2,
+      "product_sub_type": "moliya"
+    },
+    {
+      "product_type": "anor",
+      "sex": "man",
+      "order_amt": 5,
+      "product_sub_type": "dashboard"
+    },
+    {
+      "product_type": "anor",
+      "sex": "man",
+      "order_amt": 14,
+      "product_sub_type": "dash"
+    },
+    {
+      "product_type": "anor",
+      "sex": "woman",
+      "order_amt": 23,
+      "product_sub_type": "dashboard"
+    },
+    {
+      "product_type": "anor",
+      "sex": "woman",
+      "order_amt": 23,
+      "product_sub_type": "dash"
+    },
+    {
+      "product_type": "banan",
+      "sex": "man",
+      "order_amt": 33,
+      "product_sub_type": "fintech"
+    },
+    {
+      "product_type": "banan",
+      "sex": "woman",
+      "order_amt": 4,
+      "product_sub_type": "fintech"
+    },
+    {
+      "product_type": "banan",
+      "sex": "woman",
+      "order_amt": 23,
+      "product_sub_type": "switch"
+    },
+    {
+      "product_type": "banan",
+      "sex": "man",
+      "order_amt": 20.9,
+      "product_sub_type": "switch"
+    },
+    {
+      "product_type": "banan",
+      "sex": "man",
+      "order_amt": 5.9,
+      "product_sub_type": "yangi"
+    },
+    {
+      "product_type": "banan",
+      "sex": "woman",
+      "order_amt": 5.9,
+      "product_sub_type": "yangi"
+    }
+  ]

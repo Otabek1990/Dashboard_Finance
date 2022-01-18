@@ -1,0 +1,11 @@
+
+.hoverRegions{
+    fill: #067488;
+}
+.hoverDistricts:hover{
+     fill: #264d72;
+}
+.region{
+    width: 600px;
+    height: 530px;
+}
