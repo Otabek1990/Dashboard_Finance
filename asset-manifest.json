@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dashboard_Finance/static/css/main.6cdb1e1f.chunk.css",
+    "main.js": "/Dashboard_Finance/static/js/main.60f2d14d.chunk.js",
+    "main.js.map": "/Dashboard_Finance/static/js/main.60f2d14d.chunk.js.map",
+    "runtime-main.js": "/Dashboard_Finance/static/js/runtime-main.e3e76463.js",
+    "runtime-main.js.map": "/Dashboard_Finance/static/js/runtime-main.e3e76463.js.map",
+    "static/js/2.b7bd64bd.chunk.js": "/Dashboard_Finance/static/js/2.b7bd64bd.chunk.js",
+    "static/js/2.b7bd64bd.chunk.js.map": "/Dashboard_Finance/static/js/2.b7bd64bd.chunk.js.map",
+    "index.html": "/Dashboard_Finance/index.html",
+    "static/css/main.6cdb1e1f.chunk.css.map": "/Dashboard_Finance/static/css/main.6cdb1e1f.chunk.css.map",
+    "static/js/2.b7bd64bd.chunk.js.LICENSE.txt": "/Dashboard_Finance/static/js/2.b7bd64bd.chunk.js.LICENSE.txt",
+    "static/media/gerb.53556335.png": "/Dashboard_Finance/static/media/gerb.53556335.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3e76463.js",
+    "static/js/2.b7bd64bd.chunk.js",
+    "static/css/main.6cdb1e1f.chunk.css",
+    "static/js/main.60f2d14d.chunk.js"
+  ]
+}
